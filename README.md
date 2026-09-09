@@ -25,8 +25,11 @@ README.md Template.
 
 ## TABLE_3 (ASCII)
 Single Line┌┐└┘─│
+
 Intersections: ┬ (top T), ├ (left T), ┤ (right T), ┴ (bottom T), ┼ (cross)
+
 Double Line╔╗╚╝═║
+
 Intersections: ╦ (top T), ╠ (left T), ╣ (right T), ╩ (bottom T), ╬ (cross)
 
 ```
