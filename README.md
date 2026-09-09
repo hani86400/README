@@ -6,7 +6,7 @@ README.md Template.
 |-|-|-|
 |L1|M1|R1|
 |L2|M2|R2|
-|L4|M4|R3|
+|L3|M3|R3|
 
 
 | H1 | H2 | H3 |
@@ -19,3 +19,46 @@ README.md Template.
 <tr><td width="33%">L2</td><td width="33%">M2</td><td width="33%">R2</td></tr>
 <tr><td width="33%">L3</td><td width="33%">M3</td><td width="33%">R3</td></tr>
 </table>
+
+
+# 🚀 GAS Project: Google Sheets Utilities
+
+A lightweight Google Apps Script (GAS) library designed to handle advanced spreadsheet manipulations and export native HTML components effortlessly.
+
+<!-- Dynamic Status Badges -->
+[![Google Apps Script](https://shields.io)](https://google.com)
+[![Coverage Status](https://shields.io)](https://coveralls.io)
+[![Build Status](https://shields.io)](https://github.com)
+[![License: MIT](https://shields.io)](https://opensource.org)
+
+---
+
+## 🛠️ Built With
+
+This project relies on the Google Workspace ecosystem and standard web technologies for user interface rendering.
+
+| Component | Badges |
+| :--- | :--- |
+| **Runtime & SDK** | ![Google Apps Script](https://shields.io) ![JavaScript](https://shields.io) |
+| **Interfaces** | ![HTML5](https://shields.io) ![CSS3](https://shields.io) |
+| **Workspace Platform** | ![Google Sheets](https://shields.io) ![Google Drive](https://shields.io) |
+
+---
+
+## 📦 Features & Functions
+
+### `ss_html(SSID, SN, R1, R2, C1, C2, RO, CO, H, T)`
+Converts any Google Sheets range down to a clean, structural native HTML table with dynamic index calculations.
+
+*   **Column Headers (`CO`)**: Supports zero headers, first-row extraction, or real sheet mapping (`A`, `B`, `C`...).
+*   **Row Tracking (`RO`)**: Seamless row index injection for easy audit logs.
+
+---
+
+## 📬 Contact & Support
+
+If you run into issues or want to collaborate on more Google Workspace tools, feel free to reach out!
+
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![GitHub](https://shields.io)](https://github.com)
+[![Gmail](https://shields.io)](mailto:your.email@gmail.com)
