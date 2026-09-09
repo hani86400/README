@@ -22,9 +22,9 @@ README.md Template.
 <tr><td width="33%">L3</td><td width="33%">M3</td><td width="33%">R3</td></tr>
 </table>
 
-
+## TABLE_3 (ASCII
 <details>
-<summary>## TABLE_3 (ASCII)</summary>
+<summary>TABLE_3 (ASCII)</summary>
 Single Line┌┐└┘─│
 
 Intersections: ┬ (top T), ├ (left T), ┤ (right T), ┴ (bottom T), ┼ (cross)
