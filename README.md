@@ -9,6 +9,8 @@ README.md Template.
 |L4|M4|R3|
 
 
+| H1 | H2 | H3 |
+
 ## TABLE_21
 <table>
 <tr><th width="33%">H1</th><th width="33%">H2</th><th width="33%">H3</th></tr>
