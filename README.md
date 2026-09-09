@@ -62,3 +62,40 @@ If you run into issues or want to collaborate on more Google Workspace tools, fe
 [![LinkedIn](https://shields.io)](https://linkedin.com)
 [![GitHub](https://shields.io)](https://github.com)
 [![Gmail](https://shields.io)](mailto:your.email@gmail.com)
+
+
+
+
+### 🤝 Connect with me
+
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![X/Twitter](https://shields.io)](https://x.com)
+[![Gmail](https://shields.io)](mailto:your.email@gmail.com)
+
+
+### 🛠️ Tech Stack & Tools
+
+<!-- Languages -->
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
+![HTML5](https://shields.io)
+
+<!-- Frameworks & Clouds -->
+![React](https://shields.io)
+![Google Apps Script](https://shields.io)
+![Docker](https://shields.io)
+
+
+<!-- Coveralls Code Coverage Badge -->
+[![Coverage Status](https://coveralls.io)](https://coveralls.io)
+
+<!-- GitHub Actions Build Status Badge -->
+[![GitHub Actions Build Status](https://shields.io)](https://github.com)
+
+<!-- Latest Release Version -->
+![GitHub release (latest by date)](https://shields.io)
+
+<!-- Repository License Type -->
+![GitHub License](https://shields.io)
+
+
