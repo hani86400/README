@@ -22,6 +22,27 @@ README.md Template.
 <tr><td width="33%">L3</td><td width="33%">M3</td><td width="33%">R3</td></tr>
 </table>
 
+Intersections: ┬ (top T), ├ (left T), ┤ (right T), ┴ (bottom T), ┼ (cross)
+```
+┌───────────┬───────────┐
+│  Header 1 │  Header 2 │
+├───────────┼───────────┤
+│  Data A   │  Data B   │
+└───────────┴───────────┘
+```
+
+Intersections: ╦ (top T), ╠ (left T), ╣ (right T), ╩ (bottom T), ╬ (cross)
+```
+╔═══════════╦═══════════╗
+║  Header 1 ║  Header 2 ║
+╠═══════════╬═══════════╣
+║  Data A   ║  Data B   ║
+╚═══════════╩═══════════╝
+
+```
+
+
+
 
 ```
 ╔═════════════════════╗
