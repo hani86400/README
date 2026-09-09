@@ -24,33 +24,29 @@ README.md Template.
 
 
 ## TABLE_3 (ASCII)
+Single Line┌┐└┘─│
 Intersections: ┬ (top T), ├ (left T), ┤ (right T), ┴ (bottom T), ┼ (cross)
+Double Line╔╗╚╝═║
+Intersections: ╦ (top T), ╠ (left T), ╣ (right T), ╩ (bottom T), ╬ (cross)
+
 ```
 ┌───────────┬───────────┐
 │  Header 1 │  Header 2 │
 ├───────────┼───────────┤
 │  Data A   │  Data B   │
 └───────────┴───────────┘
-```
 
-Intersections: ╦ (top T), ╠ (left T), ╣ (right T), ╩ (bottom T), ╬ (cross)
-```
 ╔═══════════╦═══════════╗
 ║  Header 1 ║  Header 2 ║
 ╠═══════════╬═══════════╣
 ║  Data A   ║  Data B   ║
 ╚═══════════╩═══════════╝
 
-```
-
-```
-
 +------+-------+
 | key  | value |
 +------+-------+
 | HOME | /p1   |
 +------+-------+
-
 
 .------.-------.
 | key  | value |
@@ -58,14 +54,11 @@ Intersections: ╦ (top T), ╠ (left T), ╣ (right T), ╩ (bottom T), ╬ (cr
 | HOME | /p1   |
 '------'-------'
 
-
 ................
 : key  : value :
 :......:.......:
 : HOME : /p1   :
 :......:.......:
-
-
 
 ```
 
