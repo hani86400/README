@@ -3,7 +3,9 @@ README.md Template.
 
 ---
 
-## TABLE_1 (MD)
+## TABLES
+<details>
+<summary>TABLE_1 (MD)</summary>
 | H1 | H2 | H3 |
 |-|-|-|
 
@@ -12,8 +14,10 @@ README.md Template.
 |-|-|-|
 |L2|M2|R2|
 |L3|M3|R3|
+</details>
 
-
+<details>
+<summary>TABLE_2 (HTML)</summary>
 ## TABLE_2 (HTML)
 <table>
 <tr><th width="33%">H1</th><th width="33%">H2</th><th width="33%">H3</th></tr>
@@ -21,8 +25,8 @@ README.md Template.
 <tr><td width="33%">L2</td><td width="33%">M2</td><td width="33%">R2</td></tr>
 <tr><td width="33%">L3</td><td width="33%">M3</td><td width="33%">R3</td></tr>
 </table>
+</details>
 
-## TABLE_3 (ASCII
 <details>
 <summary>TABLE_3 (ASCII)</summary>
 Single Line┌┐└┘─│
