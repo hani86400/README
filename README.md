@@ -10,6 +10,7 @@ README.md Template.
 
 
 | H1 | H2 | H3 |
+|-|-|-|
 
 ## TABLE_21
 <table>
