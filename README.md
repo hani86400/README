@@ -3,7 +3,7 @@ README.md Template.
 
 ---
 
-## TABLE_11
+## TABLE_1 (MD)
 | H1 | H2 | H3 |
 |-|-|-|
 
@@ -14,7 +14,7 @@ README.md Template.
 |L3|M3|R3|
 
 
-## TABLE_21
+## TABLE_2 (HTML)
 <table>
 <tr><th width="33%">H1</th><th width="33%">H2</th><th width="33%">H3</th></tr>
 <tr><td width="33%">L1</td><td width="33%">M1</td><td width="33%">R1</td></tr>
@@ -22,6 +22,8 @@ README.md Template.
 <tr><td width="33%">L3</td><td width="33%">M3</td><td width="33%">R3</td></tr>
 </table>
 
+
+## TABLE_3 (ASCII)
 Intersections: ┬ (top T), ├ (left T), ┤ (right T), ┴ (bottom T), ┼ (cross)
 ```
 ┌───────────┬───────────┐
