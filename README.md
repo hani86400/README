@@ -6,6 +6,7 @@ README.md Template.
 
 
 | H1 | H2 | H3 |
+|--|--|--
 |L1|M1|R1
 
 ## TABLE_2
