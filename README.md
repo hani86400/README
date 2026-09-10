@@ -1,10 +1,13 @@
 # README
 README.md Template.
 
+
+[84008400.xyz](https://84008400.xyz)
+[www.84008400.xyz](https://www.84008400.xyz)
+
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Quick_Start-5_min-blue?style=for-the-badge" alt="Quick Start"></a><br>
   <img src="https://img.shields.io/badge/CLI_Hub-Browse_%26_Install-ff69b4?style=flat" alt="CLI Hub"></a><br>
   <img src="https://img.shields.io/badge/Tests-2%2C269_Passing-brightgreen?style=plastic" alt="Tests"></a><br>
   <img src="https://img.shields.io/badge/python-≥3.10-blue?logo=python&logoColor=white" alt="Python"><br>
