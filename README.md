@@ -18,8 +18,10 @@ README.md Template.
 <summary>TABLE_1 (MD)</summary>
 
 <div align="center">
+
 | H1 | H2 | H3 |
 |-|-|-|
+
 </div>
 
 |L1|M1|R1|
