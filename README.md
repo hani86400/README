@@ -8,7 +8,7 @@ README.md Template.
   <img src="https://img.shields.io/badge/CLI_Hub-Browse_%26_Install-ff69b4?style=flat" alt="CLI Hub"></a><br>
   <img src="https://img.shields.io/badge/Tests-2%2C269_Passing-brightgreen?style=plastic" alt="Tests"></a><br>
   <img src="https://img.shields.io/badge/python-≥3.10-blue?logo=python&logoColor=white" alt="Python"><br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HKUDS.CLI-Anything&style=flat=70d4ff" alt="Views"><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hani86400&style=flat=70d4ff" alt="Views"><br>
 </p>
 
 
